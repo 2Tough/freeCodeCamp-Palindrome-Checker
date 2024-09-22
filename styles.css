@@ -1,7 +1,7 @@
 body {
     background: black;
     display: flex;
-    padding-top: 40%;
+    padding-top: 20%;
     flex-direction: column;
     align-items: center;
     align-self: center;
